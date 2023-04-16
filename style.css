@@ -1,0 +1,41 @@
+
+
+/* Debug */
+
+[class*="col"]{
+    background-color: rgb(0, 255, 191);
+    border: 1px solid #000;
+}
+
+section{
+    margin-top: 30px;
+}
+
+.grey{
+    background-color: #303030;
+    color: #fff;
+}
+
+.green{
+    background-color: rgb(7, 159, 83);
+}
+
+.blue {
+    background-color: rgb(0, 34, 255);
+}
+
+.red{
+    background-color: red;
+}
+
+.cyan{
+ background-color: darkcyan;
+}
+
+.lightblue{
+    background-color: lightblue;
+}
+
+.lightgrey{
+    background-color: #727272;
+}
