@@ -28,13 +28,23 @@
 .line{
     width: 100px;
     height: 4px;
-    background-color: #fff;
     margin: 0 5px;
 }
 
+.card img{
+    max-width: 100%;
+}
+
+.white-color{
+    color: #fff;
+}
+
+.grey-color{
+    color: #303030;
+}
 
 .white{
-    color: #fff;
+    background-color: #fff;
 }
 
 .grey{
