@@ -7,7 +7,7 @@
 }
 
 .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl{
-    --bs-gutter-x: 0;
+--bs-gutter-x: 0;
 }
 
 .navbar-nav .nav-link.active, .navbar-nav .nav-link.show, .nav-link, .navbar-brand{
